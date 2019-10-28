@@ -1,5 +1,5 @@
 ---
-title: On the Geneology of Morals of Human Beings
+title: On the Geneology of Morals of Animals
 date: 2019-08-16T22:37:31.000Z
 hero_image: "../images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
 author: Friedrich Nietzsche
